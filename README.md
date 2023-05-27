@@ -1,1 +1,1 @@
-# cutonce.github.io
+# cutonce.github.com
